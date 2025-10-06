@@ -6,15 +6,9 @@
 <a href="https://github.com/drshahizan/database/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/database?color=2b9348"></a>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fdatabase&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
-Here’s the revised version of your section with the **new Pre-Class Requirement item** added smoothly, keeping the tone consistent and professional:
-
----
-
 # 🚀 Essential Preparations for a Successful Start in Database WBL Class
 
 Welcome to the **Database WBL** class! We are excited to embark on this learning journey together. To ensure a smooth and productive start, please complete the following essential tasks **before our first session**:
-
----
 
 ## ✅ **Pre-Class Requirements**
 
