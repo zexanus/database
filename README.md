@@ -14,7 +14,7 @@ The information on this Github is part of the materials for the subject database
 
 ## 🔥 Important Things
 
-- ✅ **[Tasks to Complete Before the First Lecture](./2425/materials/essentials.md)**:
+- ✅ **[Tasks to Complete Before the First Lecture](./materials/essentials.md)**:
 Before attending the first lecture, make sure you've completed all the essential tasks. These include setting up your learning environment, accessing the course materials, and preparing to fully engage in the class from day one. 📝💻
 
 - 🧑‍🎓 **[Student Information](./2425/student/)**: Access personal and academic information relevant to your student profile.
