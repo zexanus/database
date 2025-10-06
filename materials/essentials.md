@@ -32,7 +32,7 @@ Welcome to the **Database WBL** class! We are excited to embark on this learning
 6. **Student Information Submission** 🔗
    Once added as a **collaborator** on the GitHub repository, please update your student information:
 
-   * **Edit** the student information file: [Database Student Information](https://github.com/drshahizan/database/materials/student.md)
+   * **Edit** the student information file: [Database Student Information](https://github.com/drshahizan/database/blob/main/materials/student.md)
    * Refer to this **example**: [Student Info Sample](https://github.com/drshahizan/HPDP/blob/main/student.md)
    * Include:
 
@@ -40,7 +40,7 @@ Welcome to the **Database WBL** class! We are excited to embark on this learning
      * **GitHub Profile Link**
      * **LinkedIn Profile Link**
      * **Portfolio Link**
-   * **Create a personal folder** in the directory: [Student Directory](https://github.com/drshahizan/database/tree/main/student)
+   * **Create a personal folder** in the directory: [Student Directory](https://github.com/drshahizan/database/blob/main/materials/student.md)
    * Name the folder using your **GitHub ID** and include your **personal details & portfolio link** inside.
 
 ## 🎯 **Final Reminder**  
