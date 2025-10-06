@@ -30,7 +30,7 @@ Before attending the first lecture, make sure you've completed all the essential
 - ❓ **[Quiz](./2425/quiz)**: Test your knowledge and track your progress through quizzes.
 
 ## Tools
-Diagrams are visual representations of information or data that help convey complex concepts, processes or systems in a clear and concise manner. Flowcharts are diagrams that use shapes and arrows to illustrate the steps in a process or algorithm [**[More info...]**](./materials/tools.md).
+Diagrams are visual representations of information or data that help convey complex concepts, processes or systems in a clear and concise manner. Flowcharts are diagrams that use shapes and arrows to illustrate the steps in a process or algorithm [**[More info...]**](https://github.com/drshahizan/software-engineering/blob/main/materials/tools.md).
 
 | No | Tools |  File |
 | :-----: |  ------ | :-----: | 
