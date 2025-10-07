@@ -13,7 +13,7 @@
 |   1 | AHMAD WILDAN BIN MAZANI                    |    |        |          |           |
 |   2 | ANGELA NGU XIN YI                          |    |        |          |           |
 |   3 | CHIN WEI YAO                               |    |        |          |           |
-|   4 | CHUN YAO TING                              |    |        |          |           |
+|   4 | CHUN YAO TING                              | yaotingchun   | [:octocat:](https://github.com/yaotingchun) | <a href="https://www.linkedin.com/in/yao-ting-chun-793405347/" ><img src="https://github.com/drshahizan/database/blob/0cb41bbdeddba722006bd2f27c68accc19311571/images/linkedin.png" width="24px" height="24px" ></a> | <a href="https://github.com/yaotingchun"><img src="https://github.com/drshahizan/database/blob/210331a2e0da5be42b480a3aeee0cda2026122aa/images/portfolio.png" width="24px" height="24px"></a> |
 |   5 | EVELYN ANG                                 | evelyn2307  | [:octocat:](https://github.com/evelyn2307) | <a href="https://www.linkedin.com/in/evelyn-ang-749569266/" ><img src="https://github.com/drshahizan/database/blob/0cb41bbdeddba722006bd2f27c68accc19311571/images/linkedin.png" width="24px" height="24px" ></a> | <a href="https://github.com/evelyn2307/evelyn2307/blob/e84300ae34bdba947d540e35999c20ba1f0922b0/README.md"><img src="https://github.com/drshahizan/database/blob/210331a2e0da5be42b480a3aeee0cda2026122aa/images/portfolio.png" width="24px" height="24px"></a> |
 |   6 | GAVENESH A/L BATUMALAI                     |    |        |          |           |
 |   7 | HARITZ HAYKAL BIN NAZRUL HISHAM            |    |        |          |           |
