@@ -24,7 +24,7 @@
 |  12 | KALAITHARAN A/L PALANYVELU                 |kalai7-web    | [:octocat:](https://github.com/kalai7-web) | <a href="https://www.linkedin.com/in/kalai-tharan/" ><img src="https://github.com/drshahizan/database/blob/0cb41bbdeddba722006bd2f27c68accc19311571/images/linkedin.png" width="24px" height="24px" ></a> | <a href="https://kalai7-web.github.io/kalai.github.io/"><img src="https://github.com/drshahizan/database/blob/210331a2e0da5be42b480a3aeee0cda2026122aa/images/portfolio.png" width="24px" height="24px"></a> |
 |  13 | KAVIVARTHAN A/L MANNIVANAN                 |    |        |          |           |
 |  14 | KHAIRUNNISA BINTI MOHD HAZANI              |    |        |          |           |
-|  15 | LEE JIA YEE                                |    |        |          |           |
+|  15 | LEE JIA YEE                                | JiaYee201  | [:octocat:](https://github.com/JiaYee201)       |   <a href="https://www.linkedin.com/in/lee-jia-yee-19859b33a/" ><img src="https://github.com/drshahizan/database/blob/0cb41bbdeddba722006bd2f27c68accc19311571/images/linkedin.png" width="24px" height="24px" ></a>        |  <a href="https://jiayee201.github.io/"><img src="https://github.com/drshahizan/database/blob/210331a2e0da5be42b480a3aeee0cda2026122aa/images/portfolio.png" width="24px" height="24px"></a>           |
 |  16 | LEE PEI YUAN                               |    |        |          |           |
 |  17 | LEONG JIA LING                             |    |        |          |           |
 |  18 | MICHELLE HO CHIA XIN                       |    |        |          |           |
