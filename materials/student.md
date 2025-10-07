@@ -14,7 +14,7 @@
 |   2 | ANGELA NGU XIN YI                          |    |        |          |           |
 |   3 | CHIN WEI YAO                               |    |        |          |           |
 |   4 | CHUN YAO TING                              |    |        |          |           |
-|   5 | EVELYN ANG                                 |    |        |          |           |
+|   5 | EVELYN ANG                                 | evelyn2307  | [:octocat:](https://github.com/evelyn2307) | <a href="https://www.linkedin.com/in/evelyn-ang-749569266/" ><img src="https://github.com/drshahizan/database/blob/0cb41bbdeddba722006bd2f27c68accc19311571/images/linkedin.png" width="24px" height="24px" ></a> | <a href="https://github.com/evelyn2307"><img src="https://github.com/drshahizan/database/blob/210331a2e0da5be42b480a3aeee0cda2026122aa/images/portfolio.png" width="24px" height="24px"></a> |
 |   6 | GAVENESH A/L BATUMALAI                     |    |        |          |           |
 |   7 | HARITZ HAYKAL BIN NAZRUL HISHAM            |    |        |          |           |
 |   8 | HENG ZHI QIANG                             |    |        |          |           |
