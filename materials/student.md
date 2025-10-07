@@ -21,7 +21,7 @@
 |   9 | HONG JIA BAO                               |    |        |          |           |
 |  10 | IDA YATULLAILIYEH BINTI AMRUN              |    |        |          |           |
 |  11 | JOSHUA LING SHANG YANG                     |    |        |          |           |
-|  12 | KALAITHARAN A/L PALANYVELU                 |kalai7-web    | [:octocat:](https://github.com/kalai7-web) | <a href="https://www.linkedin.com/in/kalai-tharan/" ><img src="https://github.com/drshahizan/database/blob/0cb41bbdeddba722006bd2f27c68accc19311571/images/linkedin.png" width="24px" height="24px" ></a> | <a href="https://kalai7-web.github.io/kalai.github.io/"><img src="./images/portfolio.png" width="24px" height="24px"></a> |
+|  12 | KALAITHARAN A/L PALANYVELU                 |kalai7-web    | [:octocat:](https://github.com/kalai7-web) | <a href="https://www.linkedin.com/in/kalai-tharan/" ><img src="https://github.com/drshahizan/database/blob/0cb41bbdeddba722006bd2f27c68accc19311571/images/linkedin.png" width="24px" height="24px" ></a> | <a href="https://kalai7-web.github.io/kalai.github.io/"><img src="https://github.com/drshahizan/database/blob/210331a2e0da5be42b480a3aeee0cda2026122aa/images/portfolio.png" width="24px" height="24px"></a> |
 |  13 | KAVIVARTHAN A/L MANNIVANAN                 |    |        |          |           |
 |  14 | KHAIRUNNISA BINTI MOHD HAZANI              |    |        |          |           |
 |  15 | LEE JIA YEE                                |    |        |          |           |
