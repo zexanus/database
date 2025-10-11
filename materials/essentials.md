@@ -46,7 +46,7 @@ Welcome to the **Database WBL** class! We are excited to embark on this learning
 Please **complete these tasks before our first class**, as they are crucial for effective collaboration and learning.  
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/mobile_apps/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/drshahizan/database/issues) for any improvements, suggestions or errors in the content.
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
 
