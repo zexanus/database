@@ -253,7 +253,6 @@ WHERE S.Gender = 'Female'
 | Tan Li Wen                |
 | Aina Sofea Binti Hassan   |
 
----
 
 ### **4.7 Real UTM Usage**
 
