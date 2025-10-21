@@ -21,7 +21,7 @@ Before attending the first lecture, make sure you've completed all the essential
   
 - 📚 **[Course Information](https://github.com/drshahizan/database/blob/main/images/CI%20SCSP2523%20-%20SEM%20I%2020252026.pdf)**: Find detailed course content, schedules, and requirements for the current semester.
 
-- 📅 **[Weekly Schedule](./2425/materials/schedule.md)**: A week-by-week breakdown of course topics.
+- 📅 **[Weekly Schedule](./materials/weekly.md)**: A week-by-week breakdown of course topics.
 
 - 📝 **[Assignment]()**: View and download current assignments, submission guidelines, and deadlines.
   
