@@ -72,7 +72,6 @@ Show only the **Name** and **CGPA** of all students.
 | Ahmad Khairul     | 3.25 |
 | Tan Wei Ling      | 3.70 |
 
----
 
 ### **2.3 Union (∪)**
 
